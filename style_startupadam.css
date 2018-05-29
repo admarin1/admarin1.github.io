@@ -1,0 +1,16 @@
+h1{
+	font-family: 'Noto Sans', sans-serif;
+	text-align: center;
+	font-size: 70px;
+	color: white;
+}
+
+body{
+	background-image: url(background2.jpg);
+	background-size: 100%;
+}
+
+header{
+	text-align: center;
+	margin-top: 50px;
+}
